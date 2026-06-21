@@ -51,7 +51,7 @@ The objective of this webpage is to create awareness about the initiatives under
 ```text
 inamigos-foundation-awareness-webpage/
 │
-├── index.html
+├── inamigos.html
 ├── README.md
 └── screenshots/
 ```
